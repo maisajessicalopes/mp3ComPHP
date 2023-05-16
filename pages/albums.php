@@ -3,7 +3,6 @@
 <a href="?page=new_album" class="btn btn-success">Adicionar Novo Álbum</a>
 
 <hr>
-<h1>teste</h1>
 <div class="row">
     <?php
         $albums = getAlbums();
